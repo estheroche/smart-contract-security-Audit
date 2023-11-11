@@ -1,9 +1,9 @@
 ﻿# Smart Contract Audit Report
 
-| Contract Name: StorageVictim              | Version: 0.4.23         |
-| ----------------------------------------- | ----------------------- |
-| **Audit Performed By: Marcellus Ifeanyi** | **Date: 07/11/2023**    |
-| **No. of contracts: 1**                   | **No. of Functions: 3** |
+| Contract Name: StorageVictim        | Version: 0.4.23         |
+| ----------------------------------- | ----------------------- |
+| **Audit Performed By: Esther Oche** | **Date: 11/11/2023**    |
+| **No. of contracts: 1**             | **No. of Functions: 3** |
 
 ## Table of Contents
 
